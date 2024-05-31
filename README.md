@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Yuvaraj L R
-
-## Full Stack Developer
+# 👋 Hi, I'm Yuvaraj L R ## Full Stack Developer
 
 ## 🚀 Summary
 
