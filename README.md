@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuvaraj L R
 
-**Full Stack Developer**
+# Full Stack Developer
 
 ## 🚀 Summary
 
